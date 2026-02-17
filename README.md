@@ -1,4 +1,4 @@
-# Naviotech_Project4_Diabetes_Prediction_Analysis_Project
+# Naviotech_Project5_Diabetes_Prediction_Analysis_Project
 This repository consist of the Pima Indian Diabetes Dataset Prediction Project which predicts the diabetes based on the famous Pima Indian Diabetes Dataset. 
 
 It predicts the probability of presence or absence of diabetes based on :
